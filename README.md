@@ -10,62 +10,25 @@ This project was developed to gain hands-on experience in building a complete fu
 
 # 🚀 Technologies Used
 
-### Backend
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Data JPA (Hibernate)
-- REST APIs
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Database
-- MySQL
-- MySQL Workbench
-
-### Development Tools
-- IntelliJ IDEA
-- Maven
-- Git
-- GitHub
-- Postman
+| **Category** | **Technologies**                                            |
+| ------------ | ----------------------------------------------------------- |
+| 💻 Frontend  | HTML5, CSS3, JavaScript                                     |
+| ⚙️ Backend   | Java, Spring Boot, Spring MVC                               |
+| 🗄️ Database | MySQL, Spring Data JPA (Hibernate)                          |
+| 🔌 APIs      | REST APIs                                                   |
+| 🛠️ Tools    | IntelliJ IDEA, Maven, Git, GitHub, Postman, MySQL Workbench |
 
 ---
 
 
 # ✨ Features
 
-### User Module
-
-- User Registration
-- Secure Login
-- Search Jobs
-- Filter Jobs by
-  - Location
-  - Job Type
-  - Role
-- View Job Details
-- Apply for Jobs
-- Upload Resume
-- Submit Candidate Details
-- View My Applications
-- Application Success Page
-
----
-
-### Admin Module
-
-- Admin Login
-- Dashboard
-- Add New Jobs
-- Update Existing Jobs
-- Edit Job Details
-- Delete Jobs
-- View All Applications
-- Manage Job Listings
+- 🔐 User Registration & Secure Login
+- 🔍 Search and Filter Jobs by Role, Location, and Job Type
+- 📄 View Job Details and Apply with Resume Upload
+- 📋 Track Applied Jobs through My Applications
+- 👨‍💼 Admin Dashboard to Add, Edit, Update, Delete, and Manage Jobs
+- 💾 MySQL Database Integration with Complete CRUD Operations
 
 ---
 
@@ -145,24 +108,6 @@ job-portal
 └── README.md
 ```
 
-# 📚 What I Learned
-
-Through this project I gained hands-on experience with:
-
-- Spring Boot
-- REST API Development
-- MVC Architecture
-- Spring Data JPA
-- Hibernate
-- MySQL Integration
-- File Upload Handling
-- CRUD Operations
-- JavaScript Fetch API
-- Frontend and Backend Integration
-- Maven Project Structure
-- Git Version Control
-
----
 
 # 💡 Challenges Faced
 
@@ -183,17 +128,14 @@ These challenges improved my debugging and problem-solving skills.
 
 Future enhancements planned for this project include:
 
-- Spring Security Authentication
-- Password Encryption using BCrypt
-- JWT Authentication
-- Email Notification after Job Application
-- Resume Download by Admin
-- Pagination
-- Search Filters
-- Profile Management
-- Forgot Password
-- Dashboard Analytics
-- Deployment to AWS or Render
+- 🔒 Add Secure Login using Spring Security and JWT Authentication
+- 🔑 Encrypt User Passwords using BCrypt
+- 📧 Send Email Notifications after Job Applications
+- 📄 Allow Admin to View and Download Resumes
+- 🔍 Add Advanced Search Filters and Pagination
+- 👤 Implement User Profile and Forgot Password Features
+- 📊 Add Dashboard Analytics and Reports
+- ☁️ Deploy the Application on AWS or Render
 
 ---
 
