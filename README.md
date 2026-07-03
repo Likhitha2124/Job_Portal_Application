@@ -121,56 +121,6 @@ View Candidate Applications
 
 ---
 
-
-
----
-
-# 🧠 How I Built This Project
-
-The project was developed using a layered architecture.
-
-### Step 1
-
-Designed the MySQL database.
-
-### Step 2
-
-Created Entity classes.
-
-### Step 3
-
-Implemented Repository layer using Spring Data JPA.
-
-### Step 4
-
-Built REST Controllers.
-
-### Step 5
-
-Developed frontend pages using HTML, CSS, and JavaScript.
-
-### Step 6
-
-Connected frontend with backend using Fetch API.
-
-### Step 7
-
-Integrated MySQL for data persistence.
-
-### Step 8
-
-Implemented resume upload functionality.
-
-### Step 9
-
-Created Admin Dashboard for managing jobs.
-
-### Step 10
-
-Tested APIs using Postman.
-
----
-
 # 📂 Project Structure
 
 ```
@@ -293,7 +243,7 @@ JobportalApplication.java
 Open
 
 ```
-http://localhost:8080
+http://localhost:9090
 ```
 
 ---
