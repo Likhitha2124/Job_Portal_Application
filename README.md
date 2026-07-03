@@ -107,7 +107,7 @@ job-portal
 ├── pom.xml
 └── README.md
 ```
-
+---
 
 # 💡 Challenges Faced
 
